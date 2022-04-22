@@ -1,0 +1,31 @@
+_repo: Watson-s-Magazine-Vol-IV-No-2-April-1906_67797
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  - agent_name: Watson, Thomas E. (Thomas Edward)
+    aliases:
+    - Watson, Edward Thomas
+    - Watson, Thos. E.
+    - Watson, Thomas Edward
+    - Watson, Tom
+    birthdate: 1856
+    deathdate: 1922
+    gutenberg_agent_id: '48641'
+    url: http://www.gutenberg.org/2009/agents/48641
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_E._Watson
+description: ''
+gutenberg_issued: '2022-04-07'
+identifiers:
+  gutenberg: '67797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Watson's Magazine, Vol. IV, No. 2, April, 1906
+url: http://www.gutenberg.org/ebooks/67797
